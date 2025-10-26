@@ -1,0 +1,14 @@
+#     
+- manufacturer: 
+- platform: 
+- codename: 
+- flavor: 
+- release: 
+- id: 
+- incremental: 
+- tags: 
+- fingerprint: 
+- is_ab: true
+- brand: 
+- branch: FLEURINDGlobal_OS1.0.10.0.TKEINXM
+- repo: Xiaomi-Fleur-Dumps

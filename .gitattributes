@@ -1,0 +1,9 @@
+system_ext/priv-app/Settings/Settings.apk filter=lfs diff=lfs merge=lfs -text
+system_ext/apex/com.android.vndk.v30.apex filter=lfs diff=lfs merge=lfs -text
+product/app/TrichromeLibrary64/TrichromeLibrary64.apk filter=lfs diff=lfs merge=lfs -text
+product/data-app/MIMediaEditorGlobal/MIMediaEditorGlobal.apk filter=lfs diff=lfs merge=lfs -text
+product/priv-app/MiuiCamera/MiuiCamera.apk filter=lfs diff=lfs merge=lfs -text
+product/priv-app/ExtraPhotoGlobal/ExtraPhotoGlobal.apk filter=lfs diff=lfs merge=lfs -text
+product/priv-app/GmsCore/GmsCore.apk filter=lfs diff=lfs merge=lfs -text
+product/priv-app/Messages/Messages.apk filter=lfs diff=lfs merge=lfs -text
+product/priv-app/Velvet/Velvet.apk filter=lfs diff=lfs merge=lfs -text

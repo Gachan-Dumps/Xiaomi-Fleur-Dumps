@@ -1,0 +1,7 @@
+ro.miui.google.csp=true
+ro.product.mod_device=fleur_in_global
+ro.miui.build.region=in
+ro.mi.os.version.code=1
+ro.mi.os.version.name=OS1.0
+ro.mi.os.version.incremental=OS1.0.10.0.TKEINXM
+ro.build.version.smr_baseversion=V816.0.9.0.TKEINXM
