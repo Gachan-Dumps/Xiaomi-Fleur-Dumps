@@ -1,0 +1,56 @@
+{
+  "localId": "29a6cd9a-4ee1-4f6b-b438-b8537a0d539f",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "a48f8e6e06673f049893926a8b8e4799cfc40603",
+  "platform": 10,
+  "size": 1801076,
+  "updatedTime": 0,
+  "version": "1.0",
+  "authors": {
+    "fallback": "Mi Themes"
+  },
+  "designers": {
+    "fallback": "Mi Themes"
+  },
+  "titles": {
+    "fallback": "POCO"
+  },
+  "descriptions": {},
+  "builtInThumbnails": {
+    "en_US": [
+      "en_US_lockscreen_mask_0.jpg"
+    ],
+    "fallback": [
+      "preview_lockscreen_mask_0.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "en_US": [
+      "en_US_lockscreen_mask_0.jpg"
+    ],
+    "fallback": [
+      "preview_lockscreen_mask_0.jpg"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "eb97cc43-9b7c-4d93-9689-e2d41d3e1ad2",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": null,
+  "fontWeight": null,
+  "miuiAdapterVersion": "2.0"
+}
