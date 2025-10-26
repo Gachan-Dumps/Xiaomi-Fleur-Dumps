@@ -1,0 +1,14 @@
+#     
+- manufacturer: 
+- platform: 
+- codename: 
+- flavor: 
+- release: 
+- id: 
+- incremental: 
+- tags: 
+- fingerprint: 
+- is_ab: true
+- brand: 
+- branch: FLEUR-global-OS1.0.9.0.TKEMIXM
+- repo: Xiaomi-Fleur-Dumps
